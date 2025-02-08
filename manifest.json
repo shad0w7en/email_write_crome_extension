@@ -20,7 +20,8 @@
     ],
     "host_permissions":[
         "https://localhost:8080/*",
-        "*://mail.google.com/*"
+        "*://mail.google.com/*",
+        "https://write-email-ai.onrender.com/*"
     ],
     "action": {
       "default_title": "Email Writer Assitent"
